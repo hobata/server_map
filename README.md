@@ -6,3 +6,5 @@ Node-RED
 node-red-contrib-csvtojson   
 node-red-contrib-ip-location-lite   
 node-red-contrib-web-worldmap   
+
+![alt](map6.png)
